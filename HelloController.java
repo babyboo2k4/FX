@@ -1,4 +1,4 @@
-package org.example.tableview;
+package org.example.youtube;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
